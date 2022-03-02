@@ -18,6 +18,6 @@
 
 ## 实例
 
-1. helloworld.bf 打印helloworld
+helloworld.bf: 打印helloworld
 
 更多的实例可参考[link](https://http://www.matrix67.com/blog/archives/168)
